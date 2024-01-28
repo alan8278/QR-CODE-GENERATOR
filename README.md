@@ -1,0 +1,1 @@
+This is a QR code generator website is an online platform that allows users to create Quick Response (QR) codes easily and efficiently. QR codes are two-dimensional barcodes that can store a variety of information, such as website URLs, contact information, text, or other data.
